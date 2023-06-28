@@ -1,3 +1,7 @@
+# Ecommerce Shopping App
+This is a basic ecommerce shopping app that displays a list of fixed products without using an API. It allows users to view product details, add products to their cart, and remove products from their cart.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
